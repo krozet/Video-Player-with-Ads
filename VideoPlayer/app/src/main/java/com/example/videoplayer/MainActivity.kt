@@ -25,11 +25,6 @@ import kotlinx.android.synthetic.main.activity_main.*
 /*
 * Author: Keawa Rozet
 *
-* Thank you for taking the time to review my Video Player app
-*
-* This was my first time utilizing ads and a video player in Android.
-* I was very grateful for this opportunity to have a chance to learn while showing you what I am able to accomplish in a small period of time.
-*
 * Few things to note about the code:
 * - This app is coded using an MVP structure
 * - I am displaying the shows through a nested recyclerview solution

@@ -13,7 +13,7 @@ import java.io.IOException
 class ShowsModel : ShowsContract.Model {
 
     override fun getShows(onFinishedListener: ShowsContract.Model.OnFinishedListener) {
-        val url = "http://a.jsrdn.com/test/interview.json";
+        val url = "https://api.jsonbin.io/b/609b59851a02f86e1f0a000c";
         val request = Request.Builder().url(url).build()
         val client = OkHttpClient()
 
